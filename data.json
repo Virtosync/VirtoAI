@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is 1+1?",
+        "answers": [
+            "1+1 is 2.",
+            "The sum of 1 and 1 is 2.",
+            "If you add 1 and 1 together, you get 2."
+        ]
+    },
+    {
+        "question": "What is the capital of France?",
+        "answers": [
+            "The capital of France is Paris.",
+            "Paris is the capital city of France."
+        ]
+    }
+]
