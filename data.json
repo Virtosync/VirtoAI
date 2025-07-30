@@ -1,17 +1,1018 @@
 [
     {
-        "question": "What is 1+1?",
-        "answers": [
-            "1+1 is 2.",
-            "The sum of 1 and 1 is 2.",
-            "If you add 1 and 1 together, you get 2."
-        ]
-    },
-    {
         "question": "What is the capital of France?",
         "answers": [
             "The capital of France is Paris.",
             "Paris is the capital city of France."
+        ]
+    },
+    {
+        "question": "Why is the sky blue?",
+        "answers": [
+            "The sky is blue because of the way Earth's atmosphere scatters light from the sun.",
+            "Rayleigh scattering causes the shorter blue wavelengths of light to be scattered more than other colors.",
+            "The blue color of the sky is due to the scattering of sunlight by the atmosphere."
+        ]
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "answers": [
+            "The boiling point of water is 100 degrees Celsius.",
+            "At sea level, water boils at 100 degrees Celsius."
+        ]
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "answers": [
+            "Jupiter is the largest planet in our solar system.",
+            "The largest planet is Jupiter.",
+            "Jupiter has the greatest mass and size among the planets in our solar system.",
+            "Jupiter is a gas giant and the biggest planet orbiting the Sun."
+        ]
+    },
+    {
+        "question": "How many continents are there?",
+        "answers": [
+            "There are seven continents on Earth.",
+            "Earth has seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",
+            "The total number of continents is seven.",
+            "Seven continents make up the landmasses of our planet."
+        ]
+    },
+    {
+        "question": "What is the speed of light?",
+        "answers": [
+            "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+            "Light travels at about 186,282 miles per second.",
+            "The speed of light is roughly 300,000 km/s.",
+            "In a vacuum, light moves at nearly 3.0 x 10^8 meters per second."
+        ]
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answers": [
+            "William Shakespeare wrote 'Romeo and Juliet'.",
+            "'Romeo and Juliet' is a play by Shakespeare.",
+            "The author of 'Romeo and Juliet' is William Shakespeare.",
+            "Shakespeare is the playwright behind 'Romeo and Juliet'."
+        ]
+    },
+    {
+        "question": "What is 2 + 2?",
+        "answers": [
+            "2 + 2 equals 4.",
+            "The sum of 2 and 2 is 4.",
+            "Four is the result of adding 2 and 2.",
+            "2 plus 2 is 4."
+        ]
+    },
+    {
+        "question": "Name a mammal that can fly.",
+        "answers": [
+            "A bat is a mammal that can fly.",
+            "Bats are the only mammals capable of true flight.",
+            "The bat is the only flying mammal.",
+            "Bats are unique among mammals for their ability to fly."
+        ]
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+            "The chemical symbol for gold is Au.",
+            "Gold's symbol on the periodic table is Au.",
+            "Au represents gold in chemistry.",
+            "Gold is denoted by the symbol Au."
+        ]
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "answers": [
+            "A spider has eight legs.",
+            "Spiders have 8 legs.",
+            "The number of legs on a spider is eight.",
+            "Eight legs are characteristic of spiders."
+        ]
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "answers": [
+            "Mount Everest is the tallest mountain in the world.",
+            "The highest mountain on Earth is Mount Everest.",
+            "Mount Everest has the greatest elevation above sea level.",
+            "Everest is the tallest mountain on our planet."
+        ]
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "answers": [
+            "Leonardo da Vinci painted the Mona Lisa.",
+            "The Mona Lisa was created by Leonardo da Vinci.",
+            "Da Vinci is the artist behind the Mona Lisa.",
+            "Leonardo da Vinci is famous for painting the Mona Lisa."
+        ]
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "answers": [
+            "The smallest prime number is 2.",
+            "2 is the first and smallest prime number.",
+            "Two is the smallest prime.",
+            "The number 2 is the smallest prime number."
+        ]
+    },
+    {
+        "question": "What is the freezing point of water?",
+        "answers": [
+            "The freezing point of water is 0 degrees Celsius.",
+            "Water freezes at 0°C.",
+            "At 0 degrees Celsius, water turns to ice.",
+            "Zero degrees Celsius is the freezing point of water."
+        ]
+    },
+    {
+        "question": "Name a programming language that starts with 'P'.",
+        "answers": [
+            "Python is a programming language that starts with 'P'.",
+            "Perl is another programming language starting with 'P'.",
+            "PHP is a popular language that starts with 'P'.",
+            "Prolog is a logic programming language starting with 'P'.",
+            "Pascal is a classic programming language starting with 'P'."
+        ]
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "answers": [
+            "Avocado is the main ingredient in guacamole.",
+            "Guacamole is primarily made from avocados.",
+            "The key ingredient in guacamole is avocado.",
+            "Avocados are the base of guacamole."
+        ]
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "answers": [
+            "There are seven colors in a rainbow.",
+            "A rainbow has seven distinct colors.",
+            "The rainbow is made up of seven colors: red, orange, yellow, green, blue, indigo, and violet.",
+            "Seven colors appear in a natural rainbow."
+        ]
+    },
+    {
+        "question": "What is the hardest natural substance?",
+        "answers": [
+            "Diamond is the hardest natural substance.",
+            "The hardest naturally occurring material is diamond.",
+            "Diamonds are known for their extreme hardness.",
+            "Diamond is the hardest substance found in nature."
+        ]
+    },
+    {
+        "question": "Who invented the telephone?",
+        "answers": [
+            "Alexander Graham Bell invented the telephone.",
+            "The telephone was invented by Alexander Graham Bell.",
+            "Bell is credited with inventing the telephone.",
+            "Alexander Graham Bell is the inventor of the telephone."
+        ]
+    },
+    {
+        "question": "What is the square root of 16?",
+        "answers": [
+            "The square root of 16 is 4.",
+            "4 is the square root of 16.",
+            "The number 4 is the square root of 16.",
+            "Four is the square root of sixteen."
+        ]
+    },
+    {
+        "question": "Name a country that starts with 'A'.",
+        "answers": [
+            "Australia is a country that starts with 'A'.",
+            "Austria is another country starting with 'A'.",
+            "Afghanistan is a country beginning with 'A'.",
+            "Argentina is a country that starts with 'A'.",
+            "Albania is also a country starting with 'A'."
+        ]
+    },
+    {
+        "question": "What is the main gas found in the air we breathe?",
+        "answers": [
+            "Nitrogen is the main gas in the air we breathe.",
+            "The air is mostly composed of nitrogen.",
+            "Nitrogen makes up about 78% of Earth's atmosphere.",
+            "The primary component of air is nitrogen."
+        ]
+    },
+    {
+        "question": "Who is known as the father of computers?",
+        "answers": [
+            "Charles Babbage is known as the father of computers.",
+            "The father of computers is Charles Babbage.",
+            "Charles Babbage designed the first mechanical computer.",
+            "Babbage is often called the father of computing."
+        ]
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "answers": [
+            "The Pacific Ocean is the largest ocean on Earth.",
+            "Earth's largest ocean is the Pacific.",
+            "The Pacific Ocean covers more area than any other ocean.",
+            "The biggest ocean is the Pacific Ocean."
+        ]
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "answers": [
+            "The currency of Japan is the yen.",
+            "Japan uses the yen as its currency.",
+            "The Japanese yen is the official currency of Japan.",
+            "Yen is the currency used in Japan."
+        ]
+    },
+    {
+        "question": "What is the process by which plants make food?",
+        "answers": [
+            "Photosynthesis is the process by which plants make food.",
+            "Plants use photosynthesis to produce food.",
+            "Photosynthesis allows plants to convert sunlight into energy.",
+            "The process is called photosynthesis."
+        ]
+    },
+    {
+        "question": "Name a shape with four equal sides.",
+        "answers": [
+            "A square has four equal sides.",
+            "The shape with four equal sides is a square.",
+            "Squares have four sides of equal length.",
+            "A square is a quadrilateral with four equal sides."
+        ]
+    },
+    {
+        "question": "What is the main language spoken in Brazil?",
+        "answers": [
+            "Portuguese is the main language spoken in Brazil.",
+            "Brazilians primarily speak Portuguese.",
+            "The official language of Brazil is Portuguese.",
+            "Portuguese is spoken by most people in Brazil."
+        ]
+    },
+    {
+        "question": "What is the largest mammal?",
+        "answers": [
+            "The blue whale is the largest mammal.",
+            "Blue whales are the biggest mammals on Earth.",
+            "The largest mammal is the blue whale.",
+            "Blue whale holds the record for largest mammal."
+        ]
+    },
+    {
+        "question": "What is the main function of the heart?",
+        "answers": [
+            "The heart pumps blood throughout the body.",
+            "Pumping blood is the main function of the heart.",
+            "The heart circulates blood to supply oxygen and nutrients.",
+            "The heart's primary job is to pump blood."
+        ]
+    },
+    {
+        "question": "Name a fruit that is yellow when ripe.",
+        "answers": [
+            "A banana is yellow when ripe.",
+            "Bananas turn yellow as they ripen.",
+            "Lemons are also yellow when ripe.",
+            "Pineapples can be yellow when ripe."
+        ]
+    },
+    {
+        "question": "What is the main ingredient in bread?",
+        "answers": [
+            "Flour is the main ingredient in bread.",
+            "Bread is primarily made from flour.",
+            "The key ingredient in bread is flour.",
+            "Flour is essential for making bread."
+        ]
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "answers": [
+            "The chemical formula for water is H2O.",
+            "Water is represented by H2O.",
+            "H2O is the formula for water.",
+            "Water's chemical formula is H2O."
+        ]
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "answers": [
+            "Alexander Fleming discovered penicillin.",
+            "Penicillin was discovered by Alexander Fleming.",
+            "Fleming is credited with discovering penicillin.",
+            "Alexander Fleming is the discoverer of penicillin."
+        ]
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "answers": [
+            "The Sahara is the largest hot desert in the world.",
+            "The Antarctic Desert is the largest overall desert.",
+            "The Sahara Desert is the biggest hot desert.",
+            "Antarctica is the largest desert by area."
+        ]
+    },
+    {
+        "question": "Name a planet that is not a gas giant.",
+        "answers": [
+            "Earth is not a gas giant.",
+            "Mars is a terrestrial planet, not a gas giant.",
+            "Venus is not a gas giant.",
+            "Mercury is a rocky planet, not a gas giant."
+        ]
+    },
+    {
+        "question": "What is the main source of energy for Earth?",
+        "answers": [
+            "The Sun is the main source of energy for Earth.",
+            "Solar energy powers most processes on Earth.",
+            "Earth's primary energy source is the Sun.",
+            "The Sun provides most of Earth's energy."
+        ]
+    },
+    {
+        "question": "Who was the first person to walk on the Moon?",
+        "answers": [
+            "Neil Armstrong was the first person to walk on the Moon.",
+            "The first human to set foot on the Moon was Neil Armstrong.",
+            "Neil Armstrong took the first steps on the lunar surface.",
+            "Armstrong was the first man on the Moon."
+        ]
+    },
+    {
+        "question": "What is the main function of roots in plants?",
+        "answers": [
+            "Roots anchor the plant and absorb water and nutrients.",
+            "The main function of roots is to absorb water and minerals.",
+            "Roots provide stability and nourishment to plants.",
+            "Roots help plants stay in place and take in nutrients."
+        ]
+    },
+    {
+        "question": "Name a famous scientist from history.",
+        "answers": [
+            "Albert Einstein is a famous scientist from history.",
+            "Isaac Newton is another renowned scientist.",
+            "Marie Curie was a pioneering scientist.",
+            "Galileo Galilei is a well-known historical scientist.",
+            "Nikola Tesla is a famous inventor and scientist."
+        ]
+    },
+    {
+        "question": "What is the main function of leaves?",
+        "answers": [
+            "Leaves carry out photosynthesis for the plant.",
+            "The main function of leaves is to make food through photosynthesis.",
+            "Leaves absorb sunlight and produce energy for the plant.",
+            "Photosynthesis occurs in the leaves of plants."
+        ]
+    },
+    {
+        "question": "What is the largest animal on land?",
+        "answers": [
+            "The African elephant is the largest land animal.",
+            "African elephants are the biggest animals on land.",
+            "The largest land animal is the African elephant.",
+            "African elephant holds the record for largest land animal."
+        ]
+    },
+    {
+        "question": "Name a primary color.",
+        "answers": [
+            "Red is a primary color.",
+            "Blue is another primary color.",
+            "Yellow is also a primary color.",
+            "Primary colors include red, blue, and yellow."
+        ]
+    },
+    {
+        "question": "What is the main function of the lungs?",
+        "answers": [
+            "The lungs are responsible for gas exchange, taking in oxygen and expelling carbon dioxide.",
+            "Lungs help us breathe by exchanging gases.",
+            "The main function of the lungs is respiration.",
+            "Lungs provide oxygen to the bloodstream."
+        ]
+    },
+    {
+        "question": "Who is the author of 'Harry Potter'?",
+        "answers": [
+            "J.K. Rowling is the author of 'Harry Potter'.",
+            "The 'Harry Potter' series was written by J.K. Rowling.",
+            "J.K. Rowling wrote the Harry Potter books.",
+            "The author of the Harry Potter series is J.K. Rowling."
+        ]
+    },
+    {
+        "question": "What is the main function of the brain?",
+        "answers": [
+            "The brain controls the body's functions and processes information.",
+            "The main function of the brain is to process and interpret information.",
+            "The brain coordinates movement, thought, and sensation.",
+            "The brain is the control center of the body."
+        ]
+    },
+    {
+        "question": "Name a type of renewable energy.",
+        "answers": [
+            "Solar energy is a type of renewable energy.",
+            "Wind energy is another renewable energy source.",
+            "Hydropower is a renewable energy type.",
+            "Geothermal energy is also renewable.",
+            "Biomass energy is a form of renewable energy."
+        ]
+    },
+    {
+        "question": "What is the main function of the stomach?",
+        "answers": [
+            "The stomach digests food by breaking it down with acids and enzymes.",
+            "Digestion of food is the main function of the stomach.",
+            "The stomach helps break down food for absorption.",
+            "The stomach's primary job is to digest food."
+        ]
+    },
+    {
+        "question": "Who is the current president of the United States?",
+        "answers": [
+            "As of 2025, the president of the United States is Joe Biden.",
+            "Joe Biden is the current U.S. president (2025).",
+            "The current president is Joe Biden (as of 2025).",
+            "Joe Biden serves as the president of the United States in 2025."
+        ]
+    },
+    {
+        "question": "What is the main function of the kidneys?",
+        "answers": [
+            "The kidneys filter waste from the blood and produce urine.",
+            "Kidneys remove toxins and excess fluids from the body.",
+            "The main function of the kidneys is to filter blood.",
+            "Kidneys help maintain fluid and electrolyte balance."
+        ]
+    },
+    {
+        "question": "Name a famous landmark in Egypt.",
+        "answers": [
+            "The Great Pyramid of Giza is a famous landmark in Egypt.",
+            "The Sphinx is another well-known Egyptian landmark.",
+            "The Pyramids of Giza are iconic landmarks in Egypt.",
+            "The Temple of Karnak is a famous site in Egypt."
+        ]
+    },
+    {
+        "question": "What is the main function of the liver?",
+        "answers": [
+            "The liver processes nutrients and detoxifies harmful substances.",
+            "Liver helps metabolize food and remove toxins.",
+            "The main function of the liver is detoxification.",
+            "The liver produces bile and processes chemicals in the body."
+        ]
+    },
+    {
+        "question": "Name a famous painting by Vincent van Gogh.",
+        "answers": [
+            "'Starry Night' is a famous painting by Vincent van Gogh.",
+            "Van Gogh painted 'Sunflowers', which is also well-known.",
+            "'The Bedroom' is a notable work by van Gogh.",
+            "'Irises' is another famous van Gogh painting."
+        ]
+    },
+    {
+        "question": "What is the main function of the skeleton?",
+        "answers": [
+            "The skeleton provides structure and support to the body.",
+            "It protects vital organs and allows movement.",
+            "The skeleton supports and shapes the body.",
+            "Bones make up the skeleton, which supports the body."
+        ]
+    },
+    {
+        "question": "Name a famous river in South America.",
+        "answers": [
+            "The Amazon River is a famous river in South America.",
+            "The Paraná River is another well-known river.",
+            "The Orinoco River is a major river in South America.",
+            "The São Francisco River is also notable."
+        ]
+    },
+    {
+        "question": "What is the main function of the skin?",
+        "answers": [
+            "The skin protects the body from external harm.",
+            "Skin acts as a barrier and regulates temperature.",
+            "The main function of the skin is protection.",
+            "Skin helps prevent dehydration and infection."
+        ]
+    },
+    {
+        "question": "Name a famous composer from the classical period.",
+        "answers": [
+            "Wolfgang Amadeus Mozart is a famous classical composer.",
+            "Ludwig van Beethoven is another renowned composer.",
+            "Franz Joseph Haydn was a key figure in classical music.",
+            "Mozart, Beethoven, and Haydn are all classical composers."
+        ]
+    },
+    {
+        "question": "What is the main function of the eyes?",
+        "answers": [
+            "The eyes allow us to see by detecting light.",
+            "Vision is the main function of the eyes.",
+            "Eyes help us perceive our surroundings.",
+            "The eyes are responsible for sight."
+        ]
+    },
+    {
+        "question": "Name a famous mountain range in Asia.",
+        "answers": [
+            "The Himalayas are a famous mountain range in Asia.",
+            "The Karakoram Range is also in Asia.",
+            "The Altai Mountains are found in Asia.",
+            "The Hindu Kush is a mountain range in Asia."
+        ]
+    },
+    {
+        "question": "What is the main function of the ears?",
+        "answers": [
+            "The ears allow us to hear sounds.",
+            "Hearing is the main function of the ears.",
+            "Ears help us detect and interpret sound.",
+            "The ears are responsible for balance and hearing."
+        ]
+    },
+    {
+        "question": "Name a famous city in Italy.",
+        "answers": [
+            "Rome is a famous city in Italy.",
+            "Venice is another well-known Italian city.",
+            "Florence is a historic city in Italy.",
+            "Milan is a major city in Italy."
+        ]
+    },
+    {
+        "question": "What is the main function of the pancreas?",
+        "answers": [
+            "The pancreas produces insulin and aids in digestion.",
+            "Pancreas helps regulate blood sugar levels.",
+            "The main function of the pancreas is to secrete digestive enzymes.",
+            "The pancreas is involved in both digestion and hormone production."
+        ]
+    },
+    {
+        "question": "Name a famous island in the Caribbean.",
+        "answers": [
+            "Jamaica is a famous island in the Caribbean.",
+            "Cuba is the largest Caribbean island.",
+            "Barbados is a well-known Caribbean island.",
+            "The Bahamas is a group of islands in the Caribbean."
+        ]
+    },
+    {
+        "question": "What is the main function of the immune system?",
+        "answers": [
+            "The immune system defends the body against disease and infection.",
+            "Immunity is the main function of the immune system.",
+            "The immune system protects us from pathogens.",
+            "It helps the body fight off illness."
+        ]
+    },
+    {
+        "question": "Name a famous waterfall in the world.",
+        "answers": [
+            "Niagara Falls is a famous waterfall.",
+            "Victoria Falls is another well-known waterfall.",
+            "Angel Falls is the tallest waterfall in the world.",
+            "Iguazu Falls is a famous waterfall in South America."
+        ]
+    },
+    {
+        "question": "What is the main function of the circulatory system?",
+        "answers": [
+            "The circulatory system transports blood, nutrients, and oxygen throughout the body.",
+            "It circulates blood to all parts of the body.",
+            "The main function is to deliver oxygen and nutrients.",
+            "The circulatory system removes waste products from the body."
+        ]
+    },
+    {
+        "question": "Name a famous bridge in the United States.",
+        "answers": [
+            "The Golden Gate Bridge is a famous bridge in the U.S.",
+            "Brooklyn Bridge is another well-known American bridge.",
+            "The George Washington Bridge is a major U.S. bridge.",
+            "The Hoover Dam Bridge is also notable."
+        ]
+    },
+    {
+        "question": "What is the main function of the digestive system?",
+        "answers": [
+            "The digestive system breaks down food and absorbs nutrients.",
+            "Digestion and nutrient absorption are its main functions.",
+            "It converts food into energy and building blocks for the body.",
+            "The digestive system processes food for use by the body."
+        ]
+    },
+    {
+        "question": "Name a famous festival celebrated in India.",
+        "answers": [
+            "Diwali is a famous festival celebrated in India.",
+            "Holi is another well-known Indian festival.",
+            "Durga Puja is a major festival in India.",
+            "Eid is also widely celebrated in India."
+        ]
+    },
+    {
+        "question": "What is the main function of the nervous system?",
+        "answers": [
+            "The nervous system transmits signals between different parts of the body.",
+            "It controls and coordinates body activities.",
+            "The main function is communication within the body.",
+            "The nervous system processes sensory information."
+        ]
+    },
+    {
+        "question": "Name a famous author from the 20th century.",
+        "answers": [
+            "George Orwell is a famous 20th-century author.",
+            "Ernest Hemingway is another well-known author.",
+            "Agatha Christie wrote many famous books in the 20th century.",
+            "J.R.R. Tolkien is a renowned 20th-century author."
+        ]
+    },
+    {
+        "question": "What is the tallest building in the world?",
+        "answers": [
+            "The tallest building in the world is the Burj Khalifa.",
+            "Burj Khalifa in Dubai holds the record for tallest building.",
+            "As of 2025, Burj Khalifa is the tallest skyscraper.",
+            "Dubai's Burj Khalifa is the world's tallest building."
+        ]
+    },
+    {
+        "question": "Name a famous scientist who won two Nobel Prizes.",
+        "answers": [
+            "Marie Curie won two Nobel Prizes.",
+            "Marie Curie is the only person to win Nobel Prizes in two different sciences.",
+            "Curie received Nobel Prizes in Physics and Chemistry.",
+            "Marie Curie is a double Nobel laureate."
+        ]
+    },
+    {
+        "question": "What is the largest island in the world?",
+        "answers": [
+            "Greenland is the largest island in the world.",
+            "The world's largest island is Greenland.",
+            "Greenland has the greatest land area of any island.",
+            "Greenland is the biggest island on Earth."
+        ]
+    },
+    {
+        "question": "Name a famous painting by Leonardo da Vinci.",
+        "answers": [
+            "The Mona Lisa is a famous painting by Leonardo da Vinci.",
+            "Da Vinci painted The Last Supper.",
+            "Vitruvian Man is a well-known drawing by Leonardo da Vinci.",
+            "Lady with an Ermine is another da Vinci painting."
+        ]
+    },
+    {
+        "question": "What is the most spoken language in the world?",
+        "answers": [
+            "Mandarin Chinese is the most spoken language in the world.",
+            "The language with the most native speakers is Mandarin Chinese.",
+            "Mandarin is the world's most widely spoken language.",
+            "Mandarin Chinese has the largest number of speakers."
+        ]
+    },
+    {
+        "question": "Name a planet with rings.",
+        "answers": [
+            "Saturn is famous for its rings.",
+            "Jupiter has rings, though they are faint.",
+            "Uranus is a planet with rings.",
+            "Neptune also has rings."
+        ]
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "answers": [
+            "The skin is the largest organ in the human body.",
+            "Skin is the body's largest organ by surface area and weight.",
+            "The largest organ is the skin.",
+            "Skin covers and protects the body and is the largest organ."
+        ]
+    },
+    {
+        "question": "Who was the first female Prime Minister of the UK?",
+        "answers": [
+            "Margaret Thatcher was the first female Prime Minister of the UK.",
+            "The UK's first woman Prime Minister was Margaret Thatcher.",
+            "Margaret Thatcher served as the first female Prime Minister in Britain.",
+            "Thatcher was the first woman to lead the UK government."
+        ]
+    },
+    {
+        "question": "Name a famous Greek philosopher.",
+        "answers": [
+            "Socrates was a famous Greek philosopher.",
+            "Plato is another well-known Greek philosopher.",
+            "Aristotle was a student of Plato and a famous philosopher.",
+            "Pythagoras is also known for his philosophical work."
+        ]
+    },
+    {
+        "question": "What is the hottest planet in our solar system?",
+        "answers": [
+            "Venus is the hottest planet in our solar system.",
+            "The surface temperature of Venus is higher than any other planet.",
+            "Venus is hotter than Mercury due to its thick atmosphere.",
+            "Venus is the hottest planet orbiting the Sun."
+        ]
+    },
+    {
+        "question": "Name a famous American inventor.",
+        "answers": [
+            "Thomas Edison was a famous American inventor.",
+            "Benjamin Franklin is known for his inventions.",
+            "Nikola Tesla, though Serbian-American, is a famous inventor in the U.S.",
+            "Alexander Graham Bell is also a well-known inventor."
+        ]
+    },
+    {
+        "question": "What is the largest bird in the world?",
+        "answers": [
+            "The ostrich is the largest bird in the world.",
+            "Ostriches are the biggest living birds.",
+            "The largest bird by height and weight is the ostrich.",
+            "Ostrich holds the record for largest bird."
+        ]
+    },
+    {
+        "question": "Name a famous Shakespearean tragedy.",
+        "answers": [
+            "Hamlet is a famous Shakespearean tragedy.",
+            "Macbeth is another tragedy by Shakespeare.",
+            "Othello is a well-known Shakespearean tragedy.",
+            "King Lear is also a tragedy by Shakespeare."
+        ]
+    },
+    {
+        "question": "What is the main ingredient in sushi?",
+        "answers": [
+            "Rice is the main ingredient in sushi.",
+            "Sushi is primarily made with vinegared rice.",
+            "The key ingredient in sushi is rice.",
+            "Sushi rice is essential for making sushi."
+        ]
+    },
+    {
+        "question": "Who is the Greek god of the sea?",
+        "answers": [
+            "Poseidon is the Greek god of the sea.",
+            "The god of the sea in Greek mythology is Poseidon.",
+            "Poseidon rules the oceans in Greek myths.",
+            "Poseidon is one of the Olympian gods."
+        ]
+    },
+    {
+        "question": "Name a famous French monument.",
+        "answers": [
+            "The Eiffel Tower is a famous French monument.",
+            "The Arc de Triomphe is another well-known monument in France.",
+            "Notre-Dame Cathedral is a famous French landmark.",
+            "The Louvre Pyramid is a modern French monument."
+        ]
+    },
+    {
+        "question": "What is the coldest place on Earth?",
+        "answers": [
+            "Antarctica is the coldest place on Earth.",
+            "The lowest temperatures are recorded in Antarctica.",
+            "Vostok Station in Antarctica holds the record for coldest temperature.",
+            "The South Pole is among the coldest places on the planet."
+        ]
+    },
+    {
+        "question": "Name a famous Italian dish.",
+        "answers": [
+            "Pizza is a famous Italian dish.",
+            "Pasta is another well-known Italian food.",
+            "Lasagna is a classic Italian dish.",
+            "Risotto is a popular Italian meal."
+        ]
+    },
+    {
+        "question": "What is the largest continent?",
+        "answers": [
+            "Asia is the largest continent.",
+            "The biggest continent by area and population is Asia.",
+            "Asia covers the most land of any continent.",
+            "Asia is the largest of Earth's continents."
+        ]
+    },
+    {
+        "question": "Who is the Norse god of thunder?",
+        "answers": [
+            "Thor is the Norse god of thunder.",
+            "In Norse mythology, Thor wields a hammer and controls thunder.",
+            "Thor is a major god in Norse legends.",
+            "Thor is known for his strength and thunder powers."
+        ]
+    },
+    {
+        "question": "Name a famous river in Africa.",
+        "answers": [
+            "The Nile is a famous river in Africa.",
+            "The Congo River is another major African river.",
+            "The Niger River is well-known in Africa.",
+            "The Zambezi River is also a famous African river."
+        ]
+    },
+    {
+        "question": "What is the most abundant element in the universe?",
+        "answers": [
+            "Hydrogen is the most abundant element in the universe.",
+            "The universe is mostly made up of hydrogen.",
+            "Hydrogen is the most common element in stars.",
+            "Hydrogen makes up about 75% of the universe's elemental mass."
+        ]
+    },
+    {
+        "question": "Who is the Roman god of war?",
+        "answers": [
+            "Mars is the Roman god of war.",
+            "The god of war in Roman mythology is Mars.",
+            "Mars is the Roman counterpart to the Greek god Ares.",
+            "Mars is a major deity in Roman myths."
+        ]
+    },
+    {
+        "question": "Name a famous American city known for jazz music.",
+        "answers": [
+            "New Orleans is famous for jazz music.",
+            "Chicago is another city known for its jazz scene.",
+            "Kansas City has a rich jazz history.",
+            "New York City is also a hub for jazz music."
+        ]
+    },
+    {
+        "question": "What is the main ingredient in hummus?",
+        "answers": [
+            "Chickpeas are the main ingredient in hummus.",
+            "Hummus is primarily made from chickpeas.",
+            "The key ingredient in hummus is chickpeas.",
+            "Hummus is a blend of chickpeas, tahini, lemon, and garlic."
+        ]
+    },
+    {
+        "question": "Who is the Egyptian god of the sun?",
+        "answers": [
+            "Ra is the Egyptian god of the sun.",
+            "The sun god in Egyptian mythology is Ra.",
+            "Ra is depicted as a falcon-headed god.",
+            "Ra is a central figure in ancient Egyptian religion."
+        ]
+    },
+    {
+        "question": "Name a famous Australian animal.",
+        "answers": [
+            "The kangaroo is a famous Australian animal.",
+            "Koalas are well-known animals from Australia.",
+            "The platypus is unique to Australia.",
+            "Wombats are also native to Australia."
+        ]
+    },
+    {
+        "question": "What is the most common blood type?",
+        "answers": [
+            "O positive is the most common blood type.",
+            "The most frequent blood type worldwide is O+.",
+            "O+ is the most common blood group.",
+            "O positive blood is found in most people."
+        ]
+    },
+    {
+        "question": "Who is the Hindu god of destruction?",
+        "answers": [
+            "Shiva is the Hindu god of destruction.",
+            "In Hinduism, Shiva is known as the destroyer.",
+            "Shiva is one of the principal deities in Hinduism.",
+            "Shiva is part of the Hindu trinity."
+        ]
+    },
+    {
+        "question": "Name a famous Canadian city.",
+        "answers": [
+            "Toronto is a famous Canadian city.",
+            "Vancouver is another well-known city in Canada.",
+            "Montreal is a major Canadian city.",
+            "Calgary is also a notable city in Canada."
+        ]
+    },
+    {
+        "question": "What is the most widely consumed beverage in the world after water?",
+        "answers": [
+            "Tea is the most widely consumed beverage after water.",
+            "Globally, tea is the second most popular drink.",
+            "Tea is consumed more than any other beverage except water.",
+            "Tea is the world's most popular drink after water."
+        ]
+    },
+    {
+        "question": "Who is the Greek goddess of wisdom?",
+        "answers": [
+            "Athena is the Greek goddess of wisdom.",
+            "The goddess of wisdom in Greek mythology is Athena.",
+            "Athena is also the goddess of war and strategy.",
+            "Athena is a major Olympian goddess."
+        ]
+    },
+    {
+        "question": "Name a famous South American dance.",
+        "answers": [
+            "The tango is a famous South American dance.",
+            "Samba is another well-known dance from South America.",
+            "The salsa originated in South America.",
+            "Cumbia is a traditional South American dance."
+        ]
+    },
+    {
+        "question": "What is the most common element in Earth's crust?",
+        "answers": [
+            "Oxygen is the most common element in Earth's crust.",
+            "The crust is mostly made up of oxygen by weight.",
+            "Oxygen makes up about 46% of Earth's crust.",
+            "Oxygen is the most abundant element in the crust."
+        ]
+    },
+    {
+        "question": "Who is the Roman goddess of love?",
+        "answers": [
+            "Venus is the Roman goddess of love.",
+            "The goddess of love in Roman mythology is Venus.",
+            "Venus is the Roman counterpart to the Greek goddess Aphrodite.",
+            "Venus is a major deity in Roman myths."
+        ]
+    },
+    {
+        "question": "Name a famous German composer.",
+        "answers": [
+            "Ludwig van Beethoven is a famous German composer.",
+            "Johann Sebastian Bach is another renowned German composer.",
+            "Richard Wagner is a well-known composer from Germany.",
+            "Beethoven, Bach, and Wagner are all famous German composers."
+        ]
+    },
+    {
+        "question": "What is the most visited city in the world?",
+        "answers": [
+            "Bangkok is often ranked as the most visited city in the world.",
+            "Paris is one of the most visited cities globally.",
+            "London frequently tops the list of most visited cities.",
+            "Dubai is also among the most visited cities in the world."
+        ]
+    },
+    {
+        "question": "Who is the Chinese god of war?",
+        "answers": [
+            "Guan Yu is the Chinese god of war.",
+            "Guan Gong is another name for the Chinese god of war.",
+            "Guan Yu is a revered figure in Chinese folklore.",
+            "Guan Yu is worshipped as a god of war and loyalty."
+        ]
+    },
+    {
+        "question": "Name a famous Japanese food.",
+        "answers": [
+            "Sushi is a famous Japanese food.",
+            "Ramen is another popular dish from Japan.",
+            "Tempura is a well-known Japanese food.",
+            "Sashimi is a traditional Japanese delicacy."
+        ]
+    },
+    {
+        "question": "What is the most common metal in the human body?",
+        "answers": [
+            "Calcium is the most common metal in the human body.",
+            "The body contains more calcium than any other metal.",
+            "Calcium is essential for bones and teeth.",
+            "Calcium is the most abundant metallic element in humans."
+        ]
+    },
+    {
+        "question": "Who is the Greek god of the underworld?",
+        "answers": [
+            "Hades is the Greek god of the underworld.",
+            "The ruler of the underworld in Greek mythology is Hades.",
+            "Hades governs the realm of the dead.",
+            "Hades is a major figure in Greek myths."
         ]
     }
 ]
