@@ -1014,5 +1014,502 @@
             "Hades governs the realm of the dead.",
             "Hades is a major figure in Greek myths."
         ]
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "answers": [
+            "The cheetah is the fastest land animal.",
+            "Cheetahs can reach speeds up to 70 mph.",
+            "No land animal is faster than the cheetah.",
+            "Cheetahs are known for their incredible speed."
+        ]
+    },
+    {
+        "question": "Name a famous space telescope.",
+        "answers": [
+            "The Hubble Space Telescope is famous.",
+            "James Webb Space Telescope is a recent addition.",
+            "Spitzer Space Telescope is also well-known.",
+            "Chandra X-ray Observatory is a space telescope."
+        ]
+    },
+    {
+        "question": "What is the most common gas in the universe?",
+        "answers": [
+            "Hydrogen is the most common gas in the universe.",
+            "The universe is mostly made of hydrogen.",
+            "Hydrogen dominates the universe's composition.",
+            "Hydrogen is the most abundant element in space."
+        ]
+    },
+    {
+        "question": "Who is the author of 'The Lord of the Rings'?",
+        "answers": [
+            "J.R.R. Tolkien wrote 'The Lord of the Rings'.",
+            "The author is J.R.R. Tolkien.",
+            "Tolkien is famous for writing 'The Lord of the Rings'.",
+            "'The Lord of the Rings' was written by Tolkien."
+        ]
+    },
+    {
+        "question": "Name a famous female scientist.",
+        "answers": [
+            "Marie Curie is a famous female scientist.",
+            "Rosalind Franklin contributed to DNA research.",
+            "Ada Lovelace is known as the first computer programmer.",
+            "Jane Goodall is a renowned primatologist.",
+            "Lise Meitner was a pioneering physicist."
+        ]
+    },
+    {
+        "question": "What is the largest fish in the ocean?",
+        "answers": [
+            "The whale shark is the largest fish in the ocean.",
+            "Whale sharks are the biggest fish species.",
+            "No fish is larger than the whale shark.",
+            "The whale shark holds the record for largest fish."
+        ]
+    },
+    {
+        "question": "Name a famous world leader from the 20th century.",
+        "answers": [
+            "Winston Churchill was a famous world leader.",
+            "Franklin D. Roosevelt led the U.S. during WWII.",
+            "Nelson Mandela was a key leader in South Africa.",
+            "Mahatma Gandhi led India's independence movement.",
+            "Margaret Thatcher was a prominent leader in the UK."
+        ]
+    },
+    {
+        "question": "What is the most populous country in the world?",
+        "answers": [
+            "China is the most populous country.",
+            "India is also among the most populous countries.",
+            "As of 2025, China and India have the largest populations.",
+            "China has the highest population in the world."
+        ]
+    },
+    {
+        "question": "Name a famous painting by Pablo Picasso.",
+        "answers": [
+            "Guernica is a famous painting by Picasso.",
+            "Les Demoiselles d'Avignon is another Picasso work.",
+            "The Weeping Woman is a well-known Picasso painting.",
+            "Picasso painted The Old Guitarist."
+        ]
+    },
+    {
+        "question": "What is the most common mineral in Earth's crust?",
+        "answers": [
+            "Feldspar is the most common mineral in Earth's crust.",
+            "Quartz is also abundant in the crust.",
+            "Feldspar makes up about 60% of the crust.",
+            "Feldspar and quartz are the most common minerals."
+        ]
+    },
+    {
+        "question": "Who is the Norse god of mischief?",
+        "answers": [
+            "Loki is the Norse god of mischief.",
+            "In Norse mythology, Loki is known for trickery.",
+            "Loki is a shape-shifter and trickster god.",
+            "Loki is a major figure in Norse legends."
+        ]
+    },
+    {
+        "question": "Name a famous opera composer.",
+        "answers": [
+            "Giuseppe Verdi is a famous opera composer.",
+            "Wolfgang Amadeus Mozart composed many operas.",
+            "Giacomo Puccini is known for his operas.",
+            "Richard Wagner is a renowned opera composer."
+        ]
+    },
+    {
+        "question": "What is the most common tree in the world?",
+        "answers": [
+            "The red maple is one of the most common trees in North America.",
+            "The eucalyptus is widespread in Australia.",
+            "The Norway spruce is common in Europe.",
+            "The most common tree species globally is debated, but red maple and eucalyptus are among the top."
+        ]
+    },
+    {
+        "question": "Who is the Roman god of the sea?",
+        "answers": [
+            "Neptune is the Roman god of the sea.",
+            "The god of the sea in Roman mythology is Neptune.",
+            "Neptune is the Roman counterpart to the Greek god Poseidon.",
+            "Neptune rules the oceans in Roman myths."
+        ]
+    },
+    {
+        "question": "Name a famous African country.",
+        "answers": [
+            "Nigeria is a famous African country.",
+            "Egypt is well-known in Africa.",
+            "South Africa is a prominent African nation.",
+            "Kenya is a famous country in Africa."
+        ]
+    },
+    {
+        "question": "What is the most common type of rock on Earth?",
+        "answers": [
+            "Igneous rock is the most common type by volume.",
+            "Basalt is the most common rock in Earth's crust.",
+            "Sedimentary rocks cover most of Earth's surface.",
+            "Igneous, sedimentary, and metamorphic are the three main types."
+        ]
+    },
+    {
+        "question": "Who is the Greek goddess of love?",
+        "answers": [
+            "Aphrodite is the Greek goddess of love.",
+            "The goddess of love in Greek mythology is Aphrodite.",
+            "Aphrodite is a major Olympian goddess.",
+            "Aphrodite is the Greek counterpart to Venus."
+        ]
+    },
+    {
+        "question": "Name a famous South African leader.",
+        "answers": [
+            "Nelson Mandela was a famous South African leader.",
+            "Desmond Tutu is another well-known leader.",
+            "Cyril Ramaphosa is the current president (as of 2025).",
+            "Winnie Mandela was a prominent activist."
+        ]
+    },
+    {
+        "question": "What is the most common bird in the world?",
+        "answers": [
+            "The domestic chicken is the most common bird.",
+            "Chickens outnumber all other bird species.",
+            "The red-billed quelea is the most numerous wild bird.",
+            "Chickens are the most widespread bird species."
+        ]
+    },
+    {
+        "question": "Who is the Hindu goddess of wealth?",
+        "answers": [
+            "Lakshmi is the Hindu goddess of wealth.",
+            "The goddess of wealth in Hinduism is Lakshmi.",
+            "Lakshmi is worshipped for prosperity and fortune.",
+            "Lakshmi is a principal goddess in Hinduism."
+        ]
+    },
+    {
+        "question": "Name a famous South American mountain.",
+        "answers": [
+            "Aconcagua is the highest mountain in South America.",
+            "Mount Fitz Roy is a famous peak in Patagonia.",
+            "Huascarán is the highest mountain in Peru.",
+            "Chimborazo is a notable mountain in Ecuador."
+        ]
+    },
+    {
+        "question": "What is the most common mammal in the world?",
+        "answers": [
+            "Humans are the most common large mammal.",
+            "The brown rat is the most numerous mammal.",
+            "House mice are also extremely common.",
+            "Cattle are among the most populous mammals."
+        ]
+    },
+    {
+        "question": "Who is the Egyptian goddess of motherhood?",
+        "answers": [
+            "Isis is the Egyptian goddess of motherhood.",
+            "The goddess of motherhood in Egyptian mythology is Isis.",
+            "Isis is a major figure in ancient Egyptian religion.",
+            "Isis is revered as a mother and protector."
+        ]
+    },
+    {
+        "question": "Name a famous North American river.",
+        "answers": [
+            "The Mississippi River is a famous North American river.",
+            "The Missouri River is another major river.",
+            "The Colorado River is well-known in North America.",
+            "The Yukon River is a significant river in the north."
+        ]
+    },
+    {
+        "question": "What is the most common insect in the world?",
+        "answers": [
+            "Ants are among the most common insects.",
+            "Beetles are the most diverse insect group.",
+            "Mosquitoes are found almost everywhere.",
+            "Flies are also extremely common insects."
+        ]
+    },
+    {
+        "question": "Who is the Roman goddess of wisdom?",
+        "answers": [
+            "Minerva is the Roman goddess of wisdom.",
+            "The goddess of wisdom in Roman mythology is Minerva.",
+            "Minerva is the Roman counterpart to Athena.",
+            "Minerva is a major deity in Roman myths."
+        ]
+    },
+    {
+        "question": "Name a famous Asian city.",
+        "answers": [
+            "Tokyo is a famous Asian city.",
+            "Beijing is another well-known city in Asia.",
+            "Bangkok is a major city in Asia.",
+            "Seoul is a prominent Asian city."
+        ]
+    },
+    {
+        "question": "What is the most common reptile in the world?",
+        "answers": [
+            "The common house gecko is widespread.",
+            "Lizards are the most numerous reptiles.",
+            "Snakes are found on every continent except Antarctica.",
+            "Turtles are also common reptiles."
+        ]
+    },
+    {
+        "question": "Who is the Greek god of the sky?",
+        "answers": [
+            "Zeus is the Greek god of the sky.",
+            "The ruler of the sky in Greek mythology is Zeus.",
+            "Zeus is the king of the Olympian gods.",
+            "Zeus controls thunder and lightning."
+        ]
+    },
+    {
+        "question": "Name a famous European mountain range.",
+        "answers": [
+            "The Alps are a famous European mountain range.",
+            "The Pyrenees are another well-known range.",
+            "The Carpathians are a major mountain range in Europe.",
+            "The Apennines run through Italy."
+        ]
+    },
+    {
+        "question": "What is the most common amphibian in the world?",
+        "answers": [
+            "The common frog is widespread in Europe.",
+            "The American toad is common in North America.",
+            "Salamanders are found in many regions.",
+            "Frogs and toads are the most common amphibians."
+        ]
+    },
+    {
+        "question": "Who is the Hindu god of creation?",
+        "answers": [
+            "Brahma is the Hindu god of creation.",
+            "The creator god in Hinduism is Brahma.",
+            "Brahma is part of the Hindu trinity.",
+            "Brahma is worshipped as the creator."
+        ]
+    },
+    {
+        "question": "Name a famous Australian city.",
+        "answers": [
+            "Sydney is a famous Australian city.",
+            "Melbourne is another major city in Australia.",
+            "Brisbane is a well-known Australian city.",
+            "Perth is a prominent city in Australia."
+        ]
+    },
+    {
+        "question": "What is the most common tree in North America?",
+        "answers": [
+            "The red maple is the most common tree in North America.",
+            "Douglas fir is widespread in the west.",
+            "Loblolly pine is common in the southeast.",
+            "Red maple and loblolly pine are among the most numerous."
+        ]
+    },
+    {
+        "question": "Who is the Roman god of the underworld?",
+        "answers": [
+            "Pluto is the Roman god of the underworld.",
+            "The ruler of the underworld in Roman mythology is Pluto.",
+            "Pluto is the Roman counterpart to Hades.",
+            "Pluto governs the realm of the dead."
+        ]
+    },
+    {
+        "question": "Name a famous South Asian country.",
+        "answers": [
+            "India is a famous South Asian country.",
+            "Pakistan is another well-known country in South Asia.",
+            "Bangladesh is a major South Asian nation.",
+            "Sri Lanka is a prominent country in South Asia."
+        ]
+    },
+    {
+        "question": "What is the most common wild cat in the world?",
+        "answers": [
+            "The domestic cat is the most common overall.",
+            "The leopard is the most widespread wild big cat.",
+            "The bobcat is common in North America.",
+            "The jungle cat is widespread in Asia."
+        ]
+    },
+    {
+        "question": "Who is the Greek goddess of the hunt?",
+        "answers": [
+            "Artemis is the Greek goddess of the hunt.",
+            "The goddess of the hunt in Greek mythology is Artemis.",
+            "Artemis is also the goddess of the moon.",
+            "Artemis is a major Olympian goddess."
+        ]
+    },
+    {
+        "question": "Name a famous Middle Eastern city.",
+        "answers": [
+            "Dubai is a famous Middle Eastern city.",
+            "Istanbul is a major city in the region.",
+            "Cairo is a well-known Middle Eastern city.",
+            "Jerusalem is a historic city in the Middle East."
+        ]
+    },
+    {
+        "question": "What is the most common carnivore in the world?",
+        "answers": [
+            "The domestic dog is the most common carnivore.",
+            "The red fox is the most widespread wild carnivore.",
+            "Cats and dogs are the most numerous carnivores.",
+            "The gray wolf is a common wild carnivore."
+        ]
+    },
+    {
+        "question": "Who is the Egyptian god of the afterlife?",
+        "answers": [
+            "Osiris is the Egyptian god of the afterlife.",
+            "The god of the afterlife in Egyptian mythology is Osiris.",
+            "Osiris is a major figure in ancient Egyptian religion.",
+            "Osiris is associated with resurrection and the dead."
+        ]
+    },
+    {
+        "question": "Name a famous Central American country.",
+        "answers": [
+            "Costa Rica is a famous Central American country.",
+            "Panama is another well-known country in Central America.",
+            "Guatemala is a major Central American nation.",
+            "Honduras is a prominent country in Central America."
+        ]
+    },
+    {
+        "question": "What is the most common marsupial in Australia?",
+        "answers": [
+            "The kangaroo is the most common marsupial in Australia.",
+            "Wallabies are also widespread.",
+            "Koalas are a well-known marsupial.",
+            "Possums are common marsupials in Australia."
+        ]
+    },
+    {
+        "question": "Who is the Roman goddess of the hearth?",
+        "answers": [
+            "Vesta is the Roman goddess of the hearth.",
+            "The goddess of the hearth in Roman mythology is Vesta.",
+            "Vesta is a major deity in Roman religion.",
+            "Vesta is associated with home and family."
+        ]
+    },
+    {
+        "question": "Name a famous river in Europe.",
+        "answers": [
+            "The Danube is a famous river in Europe.",
+            "The Rhine is another major European river.",
+            "The Seine flows through Paris.",
+            "The Thames is a well-known river in London."
+        ]
+    },
+    {
+        "question": "What is the most common tree in the world by number?",
+        "answers": [
+            "The red-billed quelea is the most numerous wild bird, but for trees, the Norway spruce is very common.",
+            "The eucalyptus is one of the most numerous trees.",
+            "Red maple is common in North America.",
+            "Loblolly pine is also very numerous."
+        ]
+    },
+    {
+        "question": "Who is the Greek god of the sun?",
+        "answers": [
+            "Helios is the Greek god of the sun.",
+            "Apollo is also associated with the sun in Greek mythology.",
+            "Helios drives the chariot of the sun.",
+            "Helios is a Titan in Greek myths."
+        ]
+    },
+    {
+        "question": "Name a famous North African country.",
+        "answers": [
+            "Egypt is a famous North African country.",
+            "Morocco is well-known in North Africa.",
+            "Algeria is a major North African nation.",
+            "Tunisia is a prominent country in North Africa."
+        ]
+    },
+    {
+        "question": "What is the most common freshwater fish in the world?",
+        "answers": [
+            "The common carp is the most widespread freshwater fish.",
+            "Tilapia is also very common in freshwater.",
+            "Catfish are found in many freshwater habitats.",
+            "Minnows are among the most numerous freshwater fish."
+        ]
+    },
+    {
+        "question": "Who is the Hindu goddess of knowledge?",
+        "answers": [
+            "Saraswati is the Hindu goddess of knowledge.",
+            "The goddess of wisdom and learning in Hinduism is Saraswati.",
+            "Saraswati is worshipped for arts and education.",
+            "Saraswati is a principal goddess in Hinduism."
+        ]
+    },
+    {
+        "question": "Name a famous city in South America.",
+        "answers": [
+            "Rio de Janeiro is a famous city in South America.",
+            "Buenos Aires is another major city.",
+            "Santiago is a well-known South American city.",
+            "Lima is a prominent city in South America."
+        ]
+    },
+    {
+        "question": "What is the most common tree in Europe?",
+        "answers": [
+            "The Norway spruce is the most common tree in Europe.",
+            "Scots pine is widespread in Europe.",
+            "English oak is a common European tree.",
+            "Silver birch is also very common."
+        ]
+    },
+    {
+        "question": "Who is the Roman god of love?",
+        "answers": [
+            "Cupid is the Roman god of love.",
+            "The god of love in Roman mythology is Cupid.",
+            "Cupid is often depicted with a bow and arrows.",
+            "Cupid is the Roman counterpart to Eros."
+        ]
+    },
+    {
+        "question": "Name a famous city in Africa.",
+        "answers": [
+            "Cairo is a famous city in Africa.",
+            "Lagos is another major African city.",
+            "Nairobi is a well-known city in Africa.",
+            "Johannesburg is a prominent African city."
+        ]
+    },
+    {
+        "question": "What is the most common conifer in the world?",
+        "answers": [
+            "The Norway spruce is the most common conifer.",
+            "Douglas fir is widespread in North America.",
+            "Scots pine is common in Europe and Asia.",
+            "Loblolly pine is numerous in the southeastern U.S."
+        ]
     }
 ]
